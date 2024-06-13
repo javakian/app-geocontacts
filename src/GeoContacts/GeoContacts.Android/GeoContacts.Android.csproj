@@ -65,7 +65,7 @@
       <Version>2.3.0-preview</Version>
     </PackageReference>
     <PackageReference Include="Microsoft.Identity.Client">
-      <Version>2.7.0</Version>
+      <Version>4.61.3</Version>
     </PackageReference>
     <PackageReference Include="MonkeyCache">
       <Version>1.2.0-beta</Version>
